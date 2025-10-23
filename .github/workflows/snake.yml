@@ -1,6 +1,5 @@
 name: Generate Snake Animation
 
-
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -17,11 +16,14 @@ jobs:
       - name: Checkout main branch
         uses: actions/checkout@v4
 
-      - name: Generate snake SVG
+      - name: Generate snake SVG (dark mode)
         uses: Platane/snk@v3
         with:
           github_user_name: ibrohim0811
-          outputs: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg
+          palette: github-dark
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
