@@ -50,6 +50,11 @@
   <a href="https://t.me/ibrohim_dev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://github.com/ibrohim0811"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ibrohim0117/ibrohim0117/output/github-snake.gif" alt="snake"/>
+</p>
 
 ---
 
