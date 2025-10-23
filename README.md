@@ -70,4 +70,7 @@
 
 ---
 
+![GitHub Snake Animation](https://raw.githubusercontent.com/ibrohim0811/output/github-contribution-grid-snake.svg)
+
+
 > 💡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
