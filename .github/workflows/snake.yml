@@ -11,19 +11,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate Snake SVG
+    name: Generate Snake SVG (Dark)
     steps:
       - name: Checkout main branch
         uses: actions/checkout@v4
 
-      - name: Generate snake SVG (dark mode)
+      - name: Generate dark snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: ibrohim0811
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg
+          outputs: dist/github-snake-dark.svg
           palette: github-dark
+          color_snake: "#00ffcc"
+          color_dots: "#1e1e1e #2d2d2d #3b3b3b #4a4a4a #5a5a5a" # orqa fon uchun
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
