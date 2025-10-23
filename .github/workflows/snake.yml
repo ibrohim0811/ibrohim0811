@@ -1,30 +1,30 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # har kuni avtomatik yangilanadi
-  workflow_dispatch: # qo'lda ishga tushirish uchun
+  schedule: # Har 6 soatda avtomatik ishlaydi
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # Qo‘lda ishga tushirish uchun
   push:
     branches:
       - main
 
 jobs:
-  build:
+  generate:
     name: Generate GitHub Contribution Snake
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
+          github_user_name: ibrohim0811
+          outputs: dist/github-snake.svg
 
-      - name: Push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
