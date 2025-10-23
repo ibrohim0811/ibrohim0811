@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me:
 - 💼 **Self Employed**
-- 💬 Ask me about: **Python, Django, SQL,  Telegram Bot, REST API, FastAPI, **
+- 💬 Ask me about: **Python, Django, SQL, Telegram Bot, REST API, FastAPI**
 - 📫 How to reach me: **ia1888980@gmail.com**
 - ⚡ Fun fact: *I love building bots that make life easier!*
 
@@ -31,15 +31,26 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrohim0811&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrohim0811&theme=tokyonight" alt="GitHub streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrohim0811&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrohim0811&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
 ### 🏆 Top Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrohim0117&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrohim0811&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 🐍 My Contribution Snake:
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrohim0811/ibrohim0811/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrohim0811/ibrohim0811/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ibrohim0811/ibrohim0811/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -51,14 +62,6 @@
   <a href="https://github.com/ibrohim0811"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrohim0117/ibrohim0117/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrohim0117/ibrohim0117/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ibrohim0117/ibrohim0117/output/github-snake.svg" />
-  </picture>
-</p>
 ---
 
 <p align="center">
