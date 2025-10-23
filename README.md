@@ -44,7 +44,7 @@
 
 ---
 
-![snake gif](https://github.com/ibrohim0811/ibrohim0811/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/ibrohim0811/ibrohim0811/blob/output/github-snake.svg)
 
 ---
 
