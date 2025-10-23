@@ -44,14 +44,7 @@
 
 ---
 
-### 🐍 My Contribution Snake:
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrohim0811/ibrohim0811/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrohim0811/ibrohim0811/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ibrohim0811/ibrohim0811/output/github-snake.svg" />
-  </picture>
-</p>
+![snake gif](https://github.com/ibrohim0811/ibrohim0811/blob/output/github-snake-dark.svg)
 
 ---
 
@@ -67,6 +60,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ibrohim0811&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
+
+
 
 ---
 
