@@ -42,7 +42,7 @@ me.say_hi()
 &nbsp;&nbsp;🤖 &nbsp;Smart **Telegram Bots** with complex workflows  
 &nbsp;&nbsp;🔌 &nbsp;Real-time apps with **WebSockets**  
 &nbsp;&nbsp;🐳 &nbsp;Containerizing everything with **Docker**  
-&nbsp;&nbsp;📫 &nbsp;[ibrohim.dev.uz@gmail.com](mailto:ibrohim.dev.uz@gmail.com)
+&nbsp;&nbsp;📫 &nbsp;[ia1888980@gmail.com](mailto:ia1888980@gmail.com)
 
 <br clear="both" />
 
@@ -150,5 +150,7 @@ me.say_hi()
   <br /><br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" />
   <br /><br />
-  <sub>Built with ❤️ by <b>Ibrohim</b> using Python & Pop!_OS</sub>
+  <sub>Built with I>_Developer Studio by <b>Ibrohim</b> using Python & Ubuntu 26.04 LTS</sub>
+  <sub> Ibrohim <b>Owner of I>_Developer solo studio</sub>
+  <img src="https://github.com/ibrohim0811/Devshield/blob/master/favicon/logo.png" width=95% />
 </div>
