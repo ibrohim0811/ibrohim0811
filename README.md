@@ -147,6 +147,8 @@ me.say_hi()
 
 ---
 
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ibrohim0811&label=PROFILE+VIEWS&color=00BFFF&style=flat-square" />
   <br /><br />
@@ -154,16 +156,23 @@ me.say_hi()
   <br /><br />
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-    <img src="https://img.shields.io/badge/Terminal-4E555B?style=flat-square&logo=gnume-terminal&logoColor=white" alt="Terminal" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+    <img src="https://img.shields.io/badge/Terminal-4E555B?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Terminal" />
   </p>
   
-  <p align="center">
-    <code>I&gt;_Developer solo studio</code> — <b>Founder & Lead Architect</b>
-  </p>
+  <h2 align="center">
+    <code>I&gt;_Developer solo studio</code>
+  </h2>
+  
+  <h3 align="center">
+    👑 <b>Founder & Lead Architect</b>
+  </h3>
+  <br />
   
   <p align="center">
-    <sub>Built with <font color="#58a6ff"><b>I&gt;_Developer Studio</b></font> by <b>Ibrohim</b> using Python & Ubuntu 26.04 LTS</sub>
+    <font size="4">Built with <font color="#58a6ff"><b>I&gt;_Developer Studio</b></font> by <b>Ibrohim</b> using Python & Ubuntu 26.04 LTS</font>
   </p>
+  
+  <br />
   <img src="https://github.com/ibrohim0811/Devshield/blob/master/favicon/logo.png" width="95%" />
 </div>
