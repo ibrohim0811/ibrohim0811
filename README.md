@@ -145,12 +145,25 @@ me.say_hi()
 
 ## 📬 &nbsp;Connect with Me
 
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ibrohim0811&label=PROFILE+VIEWS&color=00BFFF&style=flat-square" />
   <br /><br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" />
   <br /><br />
-  <sub>Built with I>_Developer Studio by <b>Ibrohim</b> using Python & Ubuntu 26.04 LTS</sub>
-  <sub> Ibrohim <b>Owner of I>_Developer solo studio</sub>
-  <img src="https://github.com/ibrohim0811/Devshield/blob/master/favicon/logo.png" width=95% />
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+    <img src="https://img.shields.io/badge/Terminal-4E555B?style=flat-square&logo=gnume-terminal&logoColor=white" alt="Terminal" />
+  </p>
+  
+  <p align="center">
+    <code>I&gt;_Developer solo studio</code> — <b>Founder & Lead Architect</b>
+  </p>
+  
+  <p align="center">
+    <sub>Built with <font color="#58a6ff"><b>I&gt;_Developer Studio</b></font> by <b>Ibrohim</b> using Python & Ubuntu 26.04 LTS</sub>
+  </p>
+  <img src="https://github.com/ibrohim0811/Devshield/blob/master/favicon/logo.png" width="95%" />
 </div>
