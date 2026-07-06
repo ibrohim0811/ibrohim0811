@@ -104,7 +104,7 @@ me.say_hi()
 
 ## 💻 &nbsp;System & Workflow
 
-![Pop!_OS](https://img.shields.io/badge/OS-Pop!_OS-48B9C7?style=flat-square&logo=pop-os&logoColor=white)
+![Ubuntu_OS](https://img.shields.io/badge/OS-Ubuntu_OS-48B9C7?style=flat-square&logo=ubuntu-os&logoColor=white)
 ![Linux](https://img.shields.io/badge/Kernel-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/IDE-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
